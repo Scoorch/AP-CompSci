@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ElbyInterface
+comment0.text=\r\n\ A\ simple\ class\ to\ run\ the\ Elby\ chat\ bot.\r\n\r\n\ @author\ <your\ name\ goes\ here>\r\n\ @version\ <today's\ date\ goes\ here>\r\n
+comment1.params=
+comment1.target=void\ main()
+comment1.text=Create\ a\ Magpie,\ give\ it\ user\ input,\ and\ print\ its\ replies.
+numComments=2

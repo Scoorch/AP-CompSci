@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=formulas
+comment0.text=\r\n\ orderedPairFormula\r\n\ Trevor\ Chen\r\n\ 24/9/26\r\n
+comment1.params=a\ b\ c
+comment1.target=orderedPair\ quad(double,\ double,\ double)
+comment2.params=A\ B
+comment2.target=double\ slope(orderedPair,\ orderedPair)
+comment3.params=A\ B
+comment3.target=orderedPair\ midpoint(orderedPair,\ orderedPair)
+comment4.params=a\ d\ k
+comment4.target=double\ arithSeries(double,\ double,\ int)
+comment5.params=a\ r\ k
+comment5.target=double\ geoSeries(double,\ double,\ int)
+comment6.params=s
+comment6.target=int\ rollDie(int)
+numComments=7

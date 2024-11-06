@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=stringTools
+comment0.text=\r\n\ stringTools\r\n\ Trevor\ Chen\r\n\ 24/9/25\r\n
+comment1.params=s
+comment1.target=java.lang.String\ lastLetter(java.lang.String)
+comment2.params=s
+comment2.target=java.lang.String\ formPhone(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ midThree(java.lang.String)
+comment4.params=s
+comment4.target=java.lang.String\ swapLastTwo(java.lang.String)
+comment5.params=s\ e
+comment5.target=boolean\ frontAgain(java.lang.String,\ int)
+numComments=6
