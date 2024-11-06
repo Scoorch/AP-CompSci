@@ -1,0 +1,52 @@
+BlueJ run started: Mon Oct 28 12:40:01 PDT 2024
+BlueJ version 5.4.1
+Build ID: 76ffe5af
+Java version 21.0.4
+JavaFX version 21.0.3+2
+Virtual machine: OpenJDK 64-Bit Server VM 21.0.4+7-LTS (Eclipse Adoptium)
+Running on: Windows 11 10.0 (amd64)
+Java Home: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_bluej application\bluej\jdk
+----
+Detected language "english" based on iso639-2 code "eng"
+Opening project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C
+An unexpected exception occurred:
+bluej.pkgmgr.dependency.Dependency$DependencyNotFoundException: Failed to find 'from' target ReviewDriver
+	at bluej.pkgmgr.dependency.Dependency.<init>(Dependency.java:143)
+	at bluej.pkgmgr.dependency.UsesDependency.<init>(UsesDependency.java:55)
+	at bluej.pkgmgr.Package.loadTargets(Package.java:968)
+	at bluej.pkgmgr.Project.<init>(Project.java:377)
+	at bluej.pkgmgr.Project.openProject(Project.java:555)
+	at bluej.pkgmgr.PkgMgrFrame.openProject(PkgMgrFrame.java:1586)
+	at bluej.pkgmgr.PkgMgrFrame.doOpen(PkgMgrFrame.java:885)
+	at bluej.BlueJGuiHandler.tryOpen(BlueJGuiHandler.java:50)
+	at bluej.Main.processArgs(Main.java:196)
+	at bluej.Main.lambda$new$1(Main.java:166)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:456)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:400)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:455)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:95)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:185)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+1730144418777: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+java.io.FileNotFoundException while reading import cache: userhome\bluej\import-cache.xml (The system cannot find the file specified)
+Communication with debug VM fully established.
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\Preconditions.java, line 55: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\Preconditions.java, line 52: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180 (in jdk.internal.util.Preconditions$1)
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\Preconditions.java, line 213: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180 (in jdk.internal.util.Preconditions$1)
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\Preconditions.java, line 210: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180 (in jdk.internal.util.Preconditions$1)
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\Preconditions.java, line 98: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180 (in jdk.internal.util.Preconditions$1)
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\Preconditions.java, line 112: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180 (in jdk.internal.util.Preconditions$1)
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\Preconditions.java, line 349: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180 (in jdk.internal.util.Preconditions$1)
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\String.java, line 4865: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180 (in jdk.internal.util.Preconditions$1)
+Error or exception for source not in project: C:\Users\1294415\OneDrive - Board of Education of SD 39 (Vancouver)\_programming\ap\Problem Set 4C\PS4C\PS4C\String.java, line 2834: java.lang.StringIndexOutOfBoundsException:
+Range [175, -1) out of bounds for length 180 (in jdk.internal.util.Preconditions$1)
