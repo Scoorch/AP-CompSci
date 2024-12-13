@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ComputerPlayer
+comment1.params=program\ game\ board
+comment1.target=ComputerPlayer(Chomp,\ ChompGame,\ BoardPanel)
+comment2.params=strategy
+comment2.target=void\ setStrategy(Strategy)
+comment2.text=\r\n\ Sets\ this\ player's\ strategy\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPrompt()
+comment3.text=\r\n\ Returns\ a\ prompt\ to\ be\ displayed\ before\r\n\ the\ next\ move\ of\ this\ player\r\n
+comment4.params=
+comment4.target=java.lang.String\ getWinMessage()
+comment4.text=\r\n\ Returns\ a\ message\ to\ be\ displayed\ when\r\n\ this\ player\ has\ won\r\n
+comment5.params=
+comment5.target=void\ makeMove()
+comment5.text=\r\n\ Initiates\ this\ player's\ next\ move\r\n
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.text=\r\n\ Called\ automatically\ when\ the\ timer\ fires\ a\ pulse\r\n\ (to\ provide\ visual\ feedback\ for\ the\ anticipated\ move,\ e.g.\r\n\ flashing\ the\ changed\ squares\ a\ few\ times)\r\n
+numComments=7

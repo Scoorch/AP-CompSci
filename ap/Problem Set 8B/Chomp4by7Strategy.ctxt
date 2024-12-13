@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Chomp4by7Strategy
+comment0.text=\r\n\ Implements\ Chomp\ strategy\ for\ a\ 4\ by\ 7\ board\r\n
+comment1.params=game
+comment1.target=Location\ findBestMove(ChompGame)
+comment2.params=game
+comment2.target=Location\ findRandomMove(ChompGame)
+numComments=3
