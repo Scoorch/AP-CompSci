@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ A\ player\ in\ a\ board\ game\r\n
+comment1.params=
+comment1.target=java.lang.String\ getPrompt()
+comment1.text=\r\n\ Returns\ a\ prompt\ to\ be\ displayed\ before\r\n\ the\ next\ move\ of\ this\ player\r\n
+comment2.params=
+comment2.target=java.lang.String\ getWinMessage()
+comment2.text=\r\n\ Returns\ a\ message\ to\ be\ displayed\ when\r\n\ this\ player\ has\ won\r\n
+comment3.params=
+comment3.target=void\ makeMove()
+comment3.text=\r\n\ Initiates\ this\ player's\ next\ move\r\n
+numComments=4

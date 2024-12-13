@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=HumanPlayer
+comment1.params=program\ game\ board
+comment1.target=HumanPlayer(Chomp,\ ChompGame,\ BoardPanel)
+comment2.params=
+comment2.target=java.lang.String\ getPrompt()
+comment2.text=\r\n\ Returns\ a\ prompt\ to\ be\ displayed\ before\r\n\ the\ next\ move\ of\ this\ player\r\n
+comment3.params=
+comment3.target=java.lang.String\ getWinMessage()
+comment3.text=\r\n\ Returns\ a\ message\ to\ be\ displayed\ when\r\n\ this\ player\ has\ won\r\n
+comment4.params=
+comment4.target=void\ makeMove()
+comment4.text=\r\n\ Initiates\ this\ player's\ next\ move\r\n
+comment5.params=e
+comment5.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment5.text=\r\n\ Called\ automatically\ when\ the\ mouse\ button\ is\ released\r\n
+comment6.params=e
+comment6.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment7.params=e
+comment7.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment8.params=e
+comment8.target=void\ mouseEntered(java.awt.event.MouseEvent)
+comment9.params=e
+comment9.target=void\ mouseExited(java.awt.event.MouseEvent)
+numComments=10

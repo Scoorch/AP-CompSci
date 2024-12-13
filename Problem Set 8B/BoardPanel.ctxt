@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BoardPanel
+comment1.params=
+comment1.target=BoardPanel()
+comment2.params=
+comment2.target=int\ numRows()
+comment3.params=
+comment3.target=int\ numCols()
+comment4.params=x\ y
+comment4.target=Location\ getPos(int,\ int)
+comment5.params=row\ col
+comment5.target=void\ setMove(int,\ int)
+comment6.params=count
+comment6.target=void\ setDisplayCount(int)
+comment7.params=game
+comment7.target=void\ update(ChompGame)
+comment8.params=g
+comment8.target=void\ paintComponent(java.awt.Graphics)
+numComments=9
